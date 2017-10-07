@@ -3,10 +3,6 @@
   <groupId>com.prasad</groupId>
   <artifactId>prasad</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <configuration>
-  	<fork>true</fork>
-  	<executable>C:\Program Files\Java\jdk1.8.0_144\bin</executable>
-  </configuration>
   <dependencies>
   	<!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependency>
